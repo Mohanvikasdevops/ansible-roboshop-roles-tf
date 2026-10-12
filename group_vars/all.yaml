@@ -1,0 +1,11 @@
+ansible_user: ec2_user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb-dev.109v.store
+CATALOGUE_HOST: catalogue-dev.109v.store
+REDIS_HOST: redis-dev.109v.store
+USER_HOST: user-dev.109v.store
+CART_HOST: cart-dev.109v.store
+MYSQL_HOST: mysql-dev.109v.store
+SHIPPING_HOST: shipping-dev.109v.store
+RABBITMQ_HOST: rabbitmq-dev.109v.store
+PAYMENT_HOST: payment-dev.109v.store
