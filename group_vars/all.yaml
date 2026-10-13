@@ -1,5 +1,6 @@
 # ansible_user: ec2_user
 # ansible_password: DevOps321
+ansible_connection: local
 MONGODB_HOST: mongodb-dev.109v.store
 CATALOGUE_HOST: catalogue-dev.109v.store
 REDIS_HOST: redis-dev.109v.store
