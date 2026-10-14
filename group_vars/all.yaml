@@ -1,12 +1,12 @@
 # ansible_user: ec2_user
 # ansible_password: DevOps321
 ansible_connection: local
-MONGODB_HOST: mongodb-{{ environment }}.109v.store
-CATALOGUE_HOST: catalogue-{{ environment }}.109v.store
-REDIS_HOST: redis-{{ environment }}.109v.store
-USER_HOST: user-{{ environment }}.109v.store
-CART_HOST: cart-{{ environment }}.109v.store
-MYSQL_HOST: mysql-{{ environment }}.109v.store
-SHIPPING_HOST: shipping-{{ environment }}.109v.store
-RABBITMQ_HOST: rabbitmq-{{ environment }}.109v.store
-PAYMENT_HOST: payment-{{ environment }}.109v.store
+MONGODB_HOST: mongodb-{{ env }}.109v.store
+CATALOGUE_HOST: catalogue-{{ env }}.109v.store
+REDIS_HOST: redis-{{ env }}.109v.store
+USER_HOST: user-{{ env }}.109v.store
+CART_HOST: cart-{{ env }}.109v.store
+MYSQL_HOST: mysql-{{ env }}.109v.store
+SHIPPING_HOST: shipping-{{ env }}.109v.store
+RABBITMQ_HOST: rabbitmq-{{ env }}.109v.store
+PAYMENT_HOST: payment-{{ env }}.109v.store
