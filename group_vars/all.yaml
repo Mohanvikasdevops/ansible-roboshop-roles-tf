@@ -10,3 +10,4 @@ MYSQL_HOST: mysql-{{ env }}.109v.store
 SHIPPING_HOST: shipping-{{ env }}.109v.store
 RABBITMQ_HOST: rabbitmq-{{ env }}.109v.store
 PAYMENT_HOST: payment-{{ env }}.109v.store
+app_version: v3
